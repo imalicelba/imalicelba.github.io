@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://imalicelba.github.io/sitemap
+Sitemap: https://imalicelba.github.io/app/sitemap
+Sitemap: https://imalicelba.github.io/assets/sitemap
+Sitemap: https://imalicelba.github.io/css/sitemap
+Sitemap: https://imalicelba.github.io/includes/sitemap
+Sitemap: https://imalicelba.github.io/item/sitemap
+Sitemap: https://imalicelba.github.io/src/sitemap
